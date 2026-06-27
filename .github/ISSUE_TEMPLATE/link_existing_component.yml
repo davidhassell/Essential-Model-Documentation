@@ -78,9 +78,14 @@ body:
         - "lim2"
         - "lpj-guess-4-1"
         - "m-sim"
+        - "masingar-mk-3r2"
         - "metum-ga9"
         - "metum-ga9a"
         - "mom5"
+        - "mri-agcm4-4"
+        - "mri-agcm4-4-land-surface"
+        - "mri-ccm3-2"
+        - "mricom-5-4-ocean-biogeochemistry"
         - "nemo-gosi9"
         - "nemo_v3_6"
         - "openifs-48r1"
@@ -143,6 +148,8 @@ body:
         - "h124"
         - "h125"
         - "h126"
+        - "h127"
+        - "h128"
       default: 0
     validations:
       required: true
