@@ -67,6 +67,7 @@ body:
         - "fesom-2-7"
         - "gamil3"
         - "gelato"
+        - "giss-ocean-model"
         - "glomap-mode"
         - "hadam3"
         - "iap-agcm5-0"
@@ -79,6 +80,7 @@ body:
         - "lpj-guess-4-1"
         - "m-sim"
         - "masingar-mk-3r2"
+        - "matrix"
         - "metum-ga9"
         - "metum-ga9a"
         - "mom5"
@@ -152,6 +154,9 @@ body:
         - "h126"
         - "h127"
         - "h128"
+        - "h129"
+        - "h130"
+        - "no-horizontal"
       default: 0
     validations:
       required: true
@@ -219,6 +224,9 @@ body:
         - "v141"
         - "v142"
         - "v143"
+        - "v144"
+        - "v145"
+        - "v146"
       default: 0
     validations:
       required: true
