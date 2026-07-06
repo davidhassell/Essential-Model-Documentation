@@ -1,7 +1,7 @@
 {
     "validation_key": "tempgrid_ChrisJones-MOHC-1781772086",
     "ui_label": "atmosphere-hybrid-sigma-pressure-coordinate grid with 19 levels.",
-    "description": "top/total level thickness in m are approx because they can vary with temperature/pressure as is the nature of hybrid coords.",
+    "description": "",
     "bottom_layer_thickness": 10,
     "n_z": 19,
     "n_z_range": "",
