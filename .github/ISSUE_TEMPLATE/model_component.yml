@@ -134,6 +134,7 @@ body:
         - "IAP-AGCM"
         - "ifs"
         - "jules"
+        - "LICOM"
         - "lim"
         - "lpj-guess"
         - "M-SIM"
