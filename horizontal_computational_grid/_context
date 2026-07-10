@@ -10,7 +10,7 @@
         },
         "horizontal_subgrids": {
             "@type": "@id"
-            "https://emd.mipcvs.dev/horizontal_subgrid/",
+            "@context":"../horizontal_subgrid/_context",
         }
     }
 }
