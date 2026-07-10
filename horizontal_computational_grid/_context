@@ -9,7 +9,7 @@
             "@type": "@id"
         },
         "horizontal_subgrids": {
-            "@type": "@id"
+            "@type": "@id",
             "@context":"../horizontal_subgrid/_context"
         }
     }
