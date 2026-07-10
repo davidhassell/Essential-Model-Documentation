@@ -10,7 +10,7 @@
         },
         "horizontal_subgrids": {
             "@type": "@id"
-            "@context":"../horizontal_subgrid/_context",
+            "@context":"../horizontal_subgrid/_context"
         }
     }
 }
