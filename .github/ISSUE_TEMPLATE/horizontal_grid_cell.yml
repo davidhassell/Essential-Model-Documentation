@@ -74,6 +74,7 @@ body:
         - "Icosahedral"
         - "Icosahedral Geodesic"
         - "Icosahedral Geodesic Dual"
+        - "Linear Spectral Gaussian"
         - "Plane Projection"
         - "Quadratic Spectral Gaussian"
         - "Reduced Gaussian"
