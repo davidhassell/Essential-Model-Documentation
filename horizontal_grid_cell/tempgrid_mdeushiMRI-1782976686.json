@@ -1,7 +1,7 @@
 {
     "validation_key": "tempgrid_mdeushiMRI-1782976686",
     "ui_label": "Horizontal grid cell with a regular latitude longitude grid type and 1.0 x 1.0 degree resolution.",
-    "description": "A regular latitude–longitude grid with 1-degree spacing, used for World Ocean Atlas climatological ocean data.",
+    "description": "",
     "alias": [
         "WOA1x1"
     ],
