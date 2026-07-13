@@ -3,7 +3,7 @@
     "ui_label": "",
     "description": "",
     "cell_variable_type": [
-        "velocity"
+        "x-velocity", "y-velocity"
     ],
     "horizontal_grid_cells": "g181",
     "@context": "_context",
