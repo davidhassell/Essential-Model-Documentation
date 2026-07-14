@@ -294,7 +294,7 @@ body:
     attributes:
       label: Westernmost Longitude
       description: |
-        The westernmost longitude of the southernmost grid cell centres, in degrees east (cells for which no calculations are made are included).
+        The westernmost longitude in the range of the southernmost grid cell centres, in degrees east (cells for which no calculations are made are included). This is the value closest to 0 when each southernmost grid cell longitude is adjusted to be in the range [0, 360).
         
         <details markdown="1">
         <summary>Detailed Guidance</summary>
