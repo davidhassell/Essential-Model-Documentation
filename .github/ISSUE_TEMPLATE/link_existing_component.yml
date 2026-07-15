@@ -102,6 +102,7 @@ body:
         - "mricom-5-4-ocean-biogeochemistry"
         - "mricom-5-4-sea-ice"
         - "nemo-gosi9"
+        - "nemo3-6"
         - "nemo_v3_6"
         - "openifs-48r1"
         - "piscesv2-gas"
