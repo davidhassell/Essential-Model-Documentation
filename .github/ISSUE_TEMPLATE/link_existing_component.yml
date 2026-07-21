@@ -75,7 +75,8 @@ body:
         - "giss-atmospheric-model-v3-1"
         - "giss-ocean-model"
         - "glomap-mode"
-        - "hadam3"
+        - "hadcm3-sea-ice"
+        - "hadocc"
         - "hd-hydrological-discharge"
         - "iap-agcm5-0"
         - "icon-a-1-1"
@@ -118,6 +119,7 @@ body:
         - "si3-gosi9"
         - "surfex_v8_modeling_platform"
         - "tactic"
+        - "topaz2"
         - "ukca"
         - "um7-3"
         - "wombatlite"
@@ -183,6 +185,7 @@ body:
         - "h137"
         - "h138"
         - "h139"
+        - "h140"
         - "no-horizontal"
       default: 0
     validations:
